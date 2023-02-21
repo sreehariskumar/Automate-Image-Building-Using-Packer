@@ -7,7 +7,7 @@ We will be creating a custom AMI using Packer and then launch an instance with t
 
 **[Packer](https://www.packer.io/) is a simple yet extremely powerful tool to automate the build of machine images.**
 
-### The code is built using the following versions:
+#### The code is built using the following versions:
 | Application | Version |
 | ------ | ------ |
 | Packer | v1.8.5 |
